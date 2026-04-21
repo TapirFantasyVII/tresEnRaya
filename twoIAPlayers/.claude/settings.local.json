@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find \"\\\\\\\\wsl.localhost\\\\Ubuntu-24.04\\\\home\\\\user\\\\escuela\\\\SI\\\\tresEnRaya\\\\twoIAPlayers/src\" -type f)"
+    ]
+  }
+}
