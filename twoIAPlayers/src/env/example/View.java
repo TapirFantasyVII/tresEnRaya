@@ -1,9 +1,8 @@
 package example;
 
-import javax.swing.*;
-import example.CellType;
 import java.awt.*;
 import java.awt.geom.*;
+import javax.swing.*;
 
 /**
  * Vista visual 2D del juego Tres en Raya
